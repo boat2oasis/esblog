@@ -1,0 +1,6 @@
+1.如何查看倒排索引的key和对应的值
+2.logstash同步的时候是否生产了key和对应的值
+3.elasticsearch适合实现集群
+4.elasticsearch增加节点和减少节点之后you哪些操作
+5.key太多了如何优化
+6.es的数据存在哪里？,如何持久化
